@@ -29,7 +29,7 @@ Os principais componentes das redes de IA, como a análise preditiva e a resolu�
 
 ### Barreiras à adoção
 
-As barreiras à adoção da IA ​​na gestão de redes incluem fatores humanos, como a resistência à mudança, a falta de confiança e a necessidade de transparência. Há uma lacuna de pesquisa na compreensão dessas barreiras e no desenvolvimento de estratégias para facilitar a adoção de tecnologias de IA em ambientes de gerenciamento de rede ([LinkedIn](https://www.linkedin.com/pulse/current-gaps-artificial-intelligence-uri- yahalom-qhgnf)).
+As barreiras à adoção da IA ​​na gestão de redes incluem fatores humanos, como a resistência à mudança, a falta de confiança e a necessidade de transparência. Há uma lacuna de pesquisa na compreensão dessas barreiras e no desenvolvimento de estratégias para facilitar a adoção de tecnologias de IA em ambientes de gerenciamento de rede ([LinkedIn](https://www.linkedin.com/pulse/current-gaps-artificial-intelligence-uri-yahalom-qhgnf)).
 
 ## 2. Referências
 
