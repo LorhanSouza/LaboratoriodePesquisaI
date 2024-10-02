@@ -1,0 +1,10 @@
+O que é uma revisão sistemática da literatura??
+R= explora o conteúdo de cada artigo/trabalho. É diferente de MAPEAMENTO SISTEMÁTICO que apenas mapeia a quantidade de artigos/trabalhos cientifícos em uma linha do tempo.
+Passos a serem dados:
+	Passo 1 - Tema bem definido. Quanto mais específico o tema, menos artigos e trabalhos acadêmicos tem para referenciar. Buscar através de palavras chave.
+	String de busca --> Inteligencia AND Artificial AND (Segurança OR Proteção) AND Rede.
+	Buscar por Jornal, Conferências e Teses. Guardar histórico de busca aprimorada (criar versões de busca = v1,v2,v3...) para comparar melhores resultados de busca assertiva e definir a Janela de Tempo (qual o período de tempo - 20 anos padrão)
+
+	Passo 2 - Busca em base de artigos [Google Scholar, (SCOPUS, Webofscience)--> Não gratuitas, porém consegue montar os gráficos com o mapeamento de cada ano]
+	
+	Passo 3 - Mendeley e Zotero: indexa os artigos encontrados e os organiza no diretório local.
